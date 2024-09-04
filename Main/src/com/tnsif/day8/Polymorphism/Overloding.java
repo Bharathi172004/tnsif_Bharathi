@@ -1,6 +1,6 @@
  package com.tnsif.day8.Polymorphism;
 
-public class Overloading {
+public class Overloading{
 	int num1;
 	int num2;
 	int result;
